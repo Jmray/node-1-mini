@@ -74,7 +74,7 @@ In this step, we will create our server and have it listen on port `4000`.
   * The first parameter of `listen` is the port number.
   * The second parameter of `listen` is a function that is called when the app starts listening.
 
-### Solution
+### Solution  
 
 <details>
 
